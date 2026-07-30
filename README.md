@@ -14,7 +14,8 @@
 I'm a Subhan Hafeez**Software Development Student** with a strong interest in building modern mobile and web applications. Currently focused on improving my programming skills and exploring the latest technologies. My journey includes:
 
 - 🚀 Learning Software Development through real-world projects.
-- 💻 Building mobile and web applications with modern technologies.
+- 💻 Building mobile and web applications with modern technological
+
 - 🌱 Exploring Flutter, Git & GitHub, and Artificial Intelligence.
 - 🧩 Improving problem-solving and software engineering skills.
 - 🤝 Open to collaborating on open-source and innovative projects.
@@ -37,6 +38,6 @@ I'm a Subhan Hafeez**Software Development Student** with a strong interest in bu
 ### 📫 Connect With Me
 GitHub: https://github.com/YOUR_USERNAME
 
-Email: your@email.com
+Email: hafeezsubhan774@gmail.com
 
 > **"Keep Learning, Keep Building, Never Give Up." 🚀**
