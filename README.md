@@ -41,3 +41,18 @@ GitHub: https://github.com/YOUR_USERNAME
 Email: hafeezsubhan774@gmail.com
 
 > **"Keep Learning, Keep Building, Never Give Up." 🚀**
+class AboutMe {
+  final String currentRole = "Flutter Engineer @ APPSOL360";
+  final List<String> passions = [
+    "Mobile Development",
+    "Cross-platform Solutions",
+    "Clean Architecture"
+  ];
+  final Map<String, int> experience = {
+    "Flutter": 2,
+    "Firebase": 2,
+    "WordPress": 8,
+  };
+  
+  String get funFact => "I've helped build apps with 1M+ downloads! 🚀";
+}
