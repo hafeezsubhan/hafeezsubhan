@@ -9,16 +9,26 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight"/>
 </p>
+ 💫 About Me
 
-I'm **Subhan Hafeez**, a passionate Software Development student from Pakistan 🇵🇰. I am currently learning Flutter, Git, GitHub, Artificial Intelligence, Firebase, Python, HTML, CSS and JavaScript. My goal is to become a professional Full Stack Developer and build modern mobile and web applications. I enjoy learning new technologies, solving programming problems and creating real-world projects that improve my skills every day.
+I'm a Subhan Hafeez**Software Development Student** with a strong interest in building modern mobile and web applications. Currently focused on improving my programming skills and exploring the latest technologies. My journey includes:
 
-### 🚀 Skills & Tools
-Flutter • Dart • Git • GitHub • HTML • CSS • JavaScript • Python • Firebase • C++ • VS Code • Android Studio • Canva • Figma
+- 🚀 Learning Software Development through real-world projects.
+- 💻 Building mobile and web applications with modern technologies.
+- 🌱 Exploring Flutter, Git & GitHub, and Artificial Intelligence.
+- 🧩 Improving problem-solving and software engineering skills.
+- 🤝 Open to collaborating on open-source and innovative projects.
+- 📚 Continuously learning new technologies and best development practices.
+- 🎯 Working towards becoming a Professional Full Stack Software Developer.
+- 💡 Passionate about writing clean, efficient, and scalable code.
+- 🌍 Dedicated to creating impactful software solutions.
+- 🧬 Currently learning Backend Development.
 
-### 🌱 Currently Learning
-Flutter Development • Backend Development • AI Tools • REST APIs • Clean Architecture
+## 📝 Latest Learning Journey
 
-### 📌 Featured Projects
+- 📖 Learning Git & GitHub for version control.
+- 📱 Building Flutter applications.
+- 🤖 Exploring Artificial Intelligence and modern development tools.
 - Software Development Website
 - Pizza Shop Management System
 - AI Image Generator
