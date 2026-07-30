@@ -1,16 +1,25 @@
-## Hi there 👋
 
-<!--
-**hafeezsubhan/hafeezsubhan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# 👋 Hi, I'm Subhan Hafeez
 
-Here are some ideas to get you started:
+## 🚀 About Me
+- 🎓 Student from Pakistan
+- 💻 Learning Web Development, Python, Git & GitHub
+- 🌱 Improving my coding skills every day
+- 🎯 Goal: Become a Professional Software Developer
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Skills
+- HTML
+- CSS
+- Python (Learning)
+- Git
+- GitHub
+
+## 📚 Currently Learning
+- Web Development
+- Python
+- JavaScript
+
+## 📫 Contact
+- Email: hafeezsubhan774@gmail.com
+
+⭐ Thanks for visiting my GitHub profile!
