@@ -1,58 +1,82 @@
-# 👋 Hello World! I'm Subhan Hafeez
+tificial Inte<h1 align="center">Hi 👋, I'm Subhan Hafeez</h1>
+<h3 align="center">🚀 Flutter Developer | Software Developer | Graphic Designer</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=3000&pause=1000&color=00C2FF&center=true&vCenter=true&width=700&lines=Software+Development+Student;Future+Full+Stack+Developer;Learning+Flutter+%7C+GitHub+%7C+AI;Always+Learning+New+Technologies" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=28&duration=3000&pause=1000&color=00C2FF&center=true&vCenter=true&width=600&lines=Flutter+Developer;Software+Engineering+Student;Graphic+Designer;Always+Learning+New+Technologies" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight"/>
+  <img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=Profile%20Views&color=0e75b6&style=for-the-badge" />
 </p>
- 💫 About Me
 
-I'm a Subhan Hafeez**Software Development Student** with a strong interest in building modern mobile and web applications. Currently focused on improving my programming skills and exploring the latest technologies. My journey includes:
+---
 
-- 🚀 Learning Software Development through real-world projects.
-- 💻 Building mobile and web applications with modern technological
+## 💫 About Me
 
-- 🌱 Exploring Flutter, Git & GitHub, and Artificial Intelligence.
-- 🧩 Improving problem-solving and software engineering skills.
-- 🤝 Open to collaborating on open-source and innovative projects.
-- 📚 Continuously learning new technologies and best development practices.
-- 🎯 Working towards becoming a Professional Full Stack Software Developer.
-- 💡 Passionate about writing clean, efficient, and scalable code.
-- 🌍 Dedicated to creating impactful software solutions.
-- 🧬 Currently learning Backend Development.
+- 🎓 Second Year Student
+- 💻 Passionate Flutter & Software Developer
+- 🎨 Professional Graphic Designer
+- 🚀 Currently learning Backend Development & Firebase
+- 🌱 Improving my skills in Clean Architecture and APIs
+- 🤝 Love teamwork and problem-solving
+- 📚 Always learning new technologies
+- ⚡ Goal: Become a Professional Software Engineer
 
-## 📝 Latest Learning Journey
+---
 
-- 📖 Learning Git & GitHub for version control.
-- 📱 Building Flutter applications.
-- 🤖 Exploring Artificial Intelligence and modern development tools.
-- Software Development Website
-- Pizza Shop Management System
-- AI Image Generator
-- Portfolio Website
+## 🛠️ Languages & Tools
 
-### 📫 Connect With Me
-GitHub: https://github.com/YOUR_USERNAME
+<p align="left">
+<img src="https://skillicons.dev/icons?i=flutter,dart,firebase,git,github,python,java,html,css,figma,vscode" />
+</p>
 
-Email: hafeezsubhan774@gmail.com
+---
 
-> **"Keep Learning, Keep Building, Never Give Up." 🚀**
-class AboutMe {
-  final String currentRole = "Flutter Engineer @ APPSOL360";
-  final List<String> passions = [
-    "Mobile Development",
-    "Cross-platform Solutions",
-    "Clean Architecture"
-  ];
-  final Map<String, int> experience = {
-    "Flutter": 2,
-    "Firebase": 2,
-    "WordPress": 8,
-  };
-  
-  String get funFact => "I've helped build apps with 1M+ downloads! 🚀";
-}
+## 📊 GitHub Stats
+
+<p align="center">
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight" />
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight" />
+</p>
+
+---
+
+## 🔥 GitHub Streak
+
+<p align="center">
+<img src="https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=tokyonight" />
+</p>
+
+---
+
+## 📈 Contribution Graph
+
+<p align="center">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=tokyo-night" />
+</p>
+
+---
+
+## 🏆 GitHub Trophies
+
+<p align="center">
+<img src="https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=tokyonight&margin-w=15&margin-h=15" />
+</p>
+
+---
+
+## 📫 Connect With Me
+
+- GitHub: https://github.com/YOUR_USERNAME
+- Email: youremail@example.com
+
+---
+
+## ⚡ Fun Fact
+
+> "Code, Learn, Build, Repeat 🚀"
+
+<p align="center">
+  ⭐ Thanks for visiting my profile ⭐
+</p>
