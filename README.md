@@ -1,5 +1,5 @@
 tificial Inte<h1 align="center">Hi 👋, I'm Subhan Hafeez</h1>
-<h3 align="center">🚀 Flutter Developer | Software Developer | Graphic Designer</h3>
+
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=28&duration=3000&pause=1000&color=00C2FF&center=true&vCenter=true&width=600&lines=Flutter+Developer;Software+Engineering+Student;Graphic+Designer;Always+Learning+New+Technologies" />
