@@ -14,7 +14,7 @@ tificial Inte<h1 align="center">Hi 👋, I'm Subhan Hafeez</h1>
 ## 💫 About Me
 
 - 🎓 Second Year Student
-- 
+
 - 🎨 Professional Graphic Designer
 - 🚀 Currently learning Backend Development & Firebase
 - 🌱 Improving my skills in Clean Architecture and APIs
