@@ -5,7 +5,7 @@ tificial Inte<h1 align="center">Hi 👋, I'm Subhan Hafeez</h1>
   <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=28&duration=3000&pause=1000&color=00C2FF&center=true&vCenter=true&width=600&lines=Flutter+Developer;Software+Engineering+Student;Graphic+Designer;Always+Learning+New+Technologies" />
 </p>
 
-<p align="center">
+<p align="Right "
   <img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=Profile%20Views&color=0e75b6&style=for-the-badge" />
 </p>
 
@@ -14,7 +14,7 @@ tificial Inte<h1 align="center">Hi 👋, I'm Subhan Hafeez</h1>
 ## 💫 About Me
 
 - 🎓 Second Year Student
-- 💻 Passionate Flutter & Software Developer
+- 
 - 🎨 Professional Graphic Designer
 - 🚀 Currently learning Backend Development & Firebase
 - 🌱 Improving my skills in Clean Architecture and APIs
@@ -27,7 +27,7 @@ tificial Inte<h1 align="center">Hi 👋, I'm Subhan Hafeez</h1>
 ## 🛠️ Languages & Tools
 
 <p align="left">
-<img src="https://skillicons.dev/icons?i=flutter,dart,firebase,git,github,python,java,html,css,figma,vscode" />
+<img src="https://skillicons.dev/icons?i=dart,firebase,git,github,python,,html,css,figma,vscode" />
 </p>
 
 ---
